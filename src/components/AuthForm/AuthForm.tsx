@@ -48,7 +48,6 @@ function AuthForm({
       <Form
         layout='vertical'
         name={mode}
-        initialValues={{ username: "admin", password: "123456" }}
         onFinish={onFinish}
         className={styles.form}
       >

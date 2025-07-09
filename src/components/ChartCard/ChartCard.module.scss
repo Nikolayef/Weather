@@ -1,0 +1,14 @@
+.chartCard {
+  overflow-x: auto;
+}
+
+.container {
+  min-width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.controls {
+  width: 80px;
+}

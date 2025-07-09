@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.title {
+  color: white !important;
+  margin: 0 !important;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  h4 {
+    color: white !important;
+    margin: 0;
+  }
+}
